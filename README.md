@@ -41,7 +41,7 @@ escaneo de puertos con Naabu y casos generales de bug bounty que leí, estudié 
 
 ## ꧁ Lista de informes link directo ꧂
 ```yam
-https://meetcyber.net/network-reconnaissance-with-naabu-a-fast-port-scanner-guide-38491f1e3a39
+https://freedium-mirror.cfd/https://meetcyber.net/network-reconnaissance-with-naabu-a-fast-port-scanner-guide-38491f1e3a39
 https://freedium-mirror.cfd/https://medium.com/@loyalonlytoday/naabu-powerful-portscanning-tool-for-bug-hunters-758860a6526b
 https://freedium-mirror.cfd/https://meetcyber.net/mastering-naabu-a-fast-port-scanner-for-bug-hunting-9a0020abfdf1
 ```
